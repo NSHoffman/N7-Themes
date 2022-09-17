@@ -1,0 +1,20 @@
+{
+    "name": "n7-vscode-themes",
+    "displayName": "N7 Themes",
+    "description": "Visual Studio Code color themes package by N7n",
+    "version": "1.0.0",
+    "publisher": "N7n",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "N7 Red Flare",
+                "uiTheme": "vs-dark",
+                "path": "./themes/red-flare-theme.json"
+            }
+        ]
+    }
+}
