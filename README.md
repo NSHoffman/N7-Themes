@@ -1,12 +1,12 @@
 # N7 Color themes for VSCode
 
 ## Lilac
-![Lilac](./preview/Lilac.png)
+![Lilac](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/Lilac.png)
 ## Maya
-![Maya](./preview/Maya.png)
+![Maya](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/Maya.png)
 ## Night Vision
-![Night Vision](./preview/NightVision.png)
+![Night Vision](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/NightVision.png)
 ## Red Flare
-![Red Flare](./preview/RedFlare.png)
+![Red Flare](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/RedFlare.png)
 ## Soft Pink
-![Soft Pink](./preview/SoftPink.png)
+![Soft Pink](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/SoftPink.png)
