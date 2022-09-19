@@ -1,46 +1,47 @@
 {
-    "name": "n7-vscode-themes",
-
-    "displayName": "N7 Themes",
-    "description": "Visual Studio Code color themes package by N7n",
-
-    "publisher": "N7n",
-    "repository": "https://github.com/NSHoffman/N7-Themes",
-    "license": "MIT",
-    
-    "engines": {
-        "vscode": "*"
-    },
-
-    "contributes": {
-        "themes": [
-            {
-                "label": "N7 Lilac",
-                "uiTheme": "vs-dark",
-                "path": "./themes/lilac-theme.json"
-            },
-            {
-                "label": "N7 Maya",
-                "uiTheme": "vs-dark",
-                "path": "./themes/maya-theme.json"
-            },
-            {
-                "label": "N7 Night Vision",
-                "uiTheme": "vs-dark",
-                "path": "./themes/night-vision-theme.json"
-            },
-            {
-                "label": "N7 Red Flare",
-                "uiTheme": "vs-dark",
-                "path": "./themes/red-flare-theme.json"
-            },
-            {
-                "label": "N7 Soft Pink",
-                "uiTheme": "vs-dark",
-                "path": "./themes/soft-pink-theme.json"
-            }
-        ]
-    },
-
-    "version": "1.0.0"
+	"name": "n7-vscode-themes",
+	"displayName": "N7 Themes",
+	"description": "Visual Studio Code color themes package by N7n",
+	"publisher": "N7n",
+	"repository": "https://github.com/NSHoffman/N7-Themes",
+	"license": "MIT",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "N7 Lilac",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lilac-theme.json"
+			},
+			{
+				"label": "N7 Maya",
+				"uiTheme": "vs-dark",
+				"path": "./themes/maya-theme.json"
+			},
+			{
+				"label": "N7 Night Vision",
+				"uiTheme": "vs-dark",
+				"path": "./themes/night-vision-theme.json"
+			},
+			{
+				"label": "N7 Red Flare",
+				"uiTheme": "vs-dark",
+				"path": "./themes/red-flare-theme.json"
+			},
+			{
+				"label": "N7 Soft Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/soft-pink-theme.json"
+			}
+		]
+	},
+	"version": "1.0.0",
+	"__metadata": {
+		"id": "30dc7cab-fef3-47f9-a7db-bf9578949d90",
+		"publisherDisplayName": "N7n",
+		"publisherId": "55f5a5ad-a3e0-4404-93e3-cab37234c7fe",
+		"isPreReleaseVersion": false
+	}
 }
