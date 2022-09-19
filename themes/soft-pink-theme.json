@@ -21,7 +21,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#49525b"
+                "foreground": "#5b6671"
             }
         },
         {
@@ -440,7 +440,7 @@
     ],
     "colors": {
         "foreground":"#afb7bf",
-        "editor.background": "#101316",
+        "editor.background": "#0d0f12",
         "editor.foreground": "#afb7bf",
         "editorCursor.foreground": "#ffffff",
         "editor.lineHighlightBackground": "#161b1f",
@@ -449,7 +449,7 @@
         "sideBar.foreground":"#afb7bf",
         "sideBarSectionHeader.background": "#21272e",
         "sideBarSectionHeader.foreground": "#afb7bf",
-        "activityBar.background":"#14181c",
+        "activityBar.background":"#101316",
         "activityBar.foreground":"#afb7bf",
         "activityBarBadge.background":"#ff8494",
         "activityBarBadge.foreground":"#ffffff",
@@ -457,7 +457,8 @@
         "badge.foreground":"#ffffff",
         "statusBar.background":"#353c43",
         "statusBar.foreground":"#ffffff",
-        "statusBar.noFolderBackground":"#7a8289",
+        "statusBar.noFolderBackground":"#171717",
+        "statusBar.debuggingBackground":"#ff8494",
         "statusBarItem.remoteBackground":"#ff8494",
         "editorGroup.background":"#161b1f",
         "tab.inactiveBackground":"#191d22",

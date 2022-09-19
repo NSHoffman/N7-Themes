@@ -5,6 +5,7 @@
     "description": "Visual Studio Code color themes package by N7n",
 
     "publisher": "N7n",
+    "repository": "https://github.com/NSHoffman/N7-Themes",
     "license": "MIT",
     
     "engines": {
@@ -13,6 +14,21 @@
 
     "contributes": {
         "themes": [
+            {
+                "label": "N7 Lilac",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lilac-theme.json"
+            },
+            {
+                "label": "N7 Maya",
+                "uiTheme": "vs-dark",
+                "path": "./themes/maya-theme.json"
+            },
+            {
+                "label": "N7 Night Vision",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night-vision-theme.json"
+            },
             {
                 "label": "N7 Red Flare",
                 "uiTheme": "vs-dark",
