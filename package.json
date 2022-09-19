@@ -2,6 +2,7 @@
 	"name": "n7-vscode-themes",
 	"displayName": "N7 Themes",
 	"description": "Visual Studio Code color themes package by N7n",
+	"icon": "https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/icon.png",
 	"publisher": "N7n",
 	"repository": "https://github.com/NSHoffman/N7-Themes",
 	"license": "MIT",
@@ -37,7 +38,7 @@
 			}
 		]
 	},
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"__metadata": {
 		"id": "30dc7cab-fef3-47f9-a7db-bf9578949d90",
 		"publisherDisplayName": "N7n",
