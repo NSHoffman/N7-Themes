@@ -1,3 +1,12 @@
 # N7 Color themes for VSCode
 
-> Work in Progress
+## Lilac
+![Lilac](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/Lilac.png)
+## Maya
+![Maya](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/Maya.png)
+## Night Vision
+![Night Vision](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/NightVision.png)
+## Red Flare
+![Red Flare](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/RedFlare.png)
+## Soft Pink
+![Soft Pink](https://raw.githubusercontent.com/NSHoffman/N7-Themes/master/preview/SoftPink.png)
